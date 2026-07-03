@@ -1,0 +1,6 @@
+/dist/
+/.venv/
+/src/cdp_bridge.egg-info/
+/.idea/
+/.mcp.json
+/src/cdp_bridge/__pycache__/
