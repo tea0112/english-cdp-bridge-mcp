@@ -4,3 +4,4 @@
 /.idea/
 /.mcp.json
 /src/cdp_bridge/__pycache__/
+/.omo/

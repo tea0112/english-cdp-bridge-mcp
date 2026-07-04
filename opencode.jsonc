@@ -1,0 +1,10 @@
+{
+  "$schema": "https://opencode.ai/config.json",
+  "mcp": {
+    "cdp-bridge": {
+      "type": "local",
+      "command": ["uv", "run", "--directory", "english-cdp-bridge-mcp", "cdp-bridge"],
+      "enabled": true,
+    },
+  },
+}
